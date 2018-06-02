@@ -1,0 +1,32 @@
+.lOGO
+{
+    height: 50PX;
+    width: 80px;
+}
+.laugh
+{
+    height: 40PX;
+    width: 40px;
+}
+.sclName
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font: bold;
+}
+.frame
+{
+    height:800px;
+    width: 100%;
+    border: none;
+}
+.MainMe
+{
+    height: 450PX;
+    width: 310px;
+    border-radius: 75%;
+    alt: "VIPUL";
+}
+.ContactHead
+{
+    background-color: #04B9AB;
+}
